@@ -72,4 +72,5 @@ group :test do
   gem "webdrivers"
 end
 
+gem "bcrypt",          "3.1.18"
 gem "bootstrap-sass",  "3.4.1"
